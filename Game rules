@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-
-    <title>PacMan VS Snake</title>
-    
-</head>
-<body>
-    <h1>Hello World!</h1>
-    <h2>Presented by: iGrace Team</h2>
-    <h3><b>Game Rules:</b><h3>
-    <p>  
+Readme:
 Pacsnake rules:
 Character: Pacman, Pacghost, Pacsnake, dots(food)
 User: Pacman VS  Pacsnake
@@ -31,6 +20,3 @@ BIG dots: 5 marks each
 Small dots: 1 marks each
 Win or Lose:
 Decide by marks in limit time
-        </p>
-</body>
-</html>
